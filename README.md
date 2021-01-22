@@ -14,7 +14,7 @@ Relatório referente ao trabalho de paradigmas da programação, onde será dese
 
 -Orientado a eventos: É um paradigma onde a execução do código é determinada pelo disparo de eventos. Sua aplicação é grande no desenvolvimento de sistemas de interface com o usuário. O sistema em tal paradigma é programado em sua base em um laço de repetição de eventos, que recebem repetidamente informação para processar e disparam uma função de resposta de acordo com o evento.
 
-Adicionair mais paradigmas!
+-Adicionair mais paradigmas!
 
 Ideia do sistema: A partir de um menu, o usuário irá digitar uma linguagem de programação X. Em seguida o programa irá analizar se essa linguagem X está ou não contida dentro do banco de dados já existente, e caso esteja informar as características do paradigma que engloba a linguagem em questão. Caso não esteja, irá ser perguntado para o usuário se ele deseja insesrir essa linguagem no banco de dados, e se for respondido com o sim, será perguntado em qual das características mostradas na tela a linguagem X mais se encaixa, cabendo ao usuário selecionar a resposta de acordo com esses blocos de dados. Após selecionar o bloco adequado, será solicitado ao administrador do sistema a inserção no paradigma Y adequado e caso aprovado dentro dos parâmetros requeridos, será inserido na lista de linguagens e estará pronta para a próxima consulta. O usuário então pode consultar uma outra linguagem, ou testar a mesma. Além disso, terão as funções alterar, excluir e consultar dentro do menu. Essas funções alterarão as linguagens do banco de dados através de solicitações realizadas ao administrador. O banco de dados em particular, terá uma lista de linguagens devidamente alocados em seus paradigmas como base.
 
