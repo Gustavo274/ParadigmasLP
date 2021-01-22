@@ -14,7 +14,7 @@ Relatório referente ao trabalho de paradigmas da programação, onde será dese
 
 -Orientado a eventos: É um paradigma onde a execução do código é determinada pelo disparo de eventos. Sua aplicação é grande no desenvolvimento de sistemas de interface com o usuário. O sistema em tal paradigma é programado em sua base em um laço de repetição de eventos, que recebem repetidamente informação para processar e disparam uma função de resposta de acordo com o evento.
 
-Ideia do sistema: A partir de um menu, o usuário irá digitar uma linguagem de programação X. Em seguida o programa irá analizar se essa linguagem X está ou não contida dentro do banco de dados já existente, e caso esteja informar as características do paradigma que engloba a linguagem em questão. Caso não esteja, irá ser perguntado para o usuário se ele deseja insesrir essa linguagem no banco de dados, e se for respondido com o sim, será perguntado em qual das características mostradas na tela a linguagem X mais se encaixa, cabendo ao usuário selecionar a resposta de acordo com esses blocos de dados apresentados acima. Após selecionar o bloco adequado, a linguagem será inserida no paradigma Y adequado e estará pronta para a próxima consulta. O usuário então pode consultar uma outra linguagem, ou testar a mesma. Além disso, terão as funções alterar, excluir e consultar dentro do menu. Essas funções alterarão as linguagens do banco de dados. O banco de dados em particular, terá uma lista de linguagens devidamente alocados em seus paradigmas, mas o usuário poderar altera-las localmente. 
+Ideia do sistema: A partir de um menu, o usuário irá digitar uma linguagem de programação X. Em seguida o programa irá analizar se essa linguagem X está ou não contida dentro do banco de dados já existente, e caso esteja informar as características do paradigma que engloba a linguagem em questão. Caso não esteja, irá ser perguntado para o usuário se ele deseja insesrir essa linguagem no banco de dados, e se for respondido com o sim, será perguntado em qual das características mostradas na tela a linguagem X mais se encaixa, cabendo ao usuário selecionar a resposta de acordo com esses blocos de dados apresentados acima. Após selecionar o bloco adequado, a linguagem será inserida no paradigma Y adequado e estará pronta para a próxima consulta. O usuário então pode consultar uma outra linguagem, ou testar a mesma. Além disso, terão as funções alterar, excluir e consultar dentro do menu. Essas funções alterarão as linguagens do banco de dados. O banco de dados em particular, terá uma lista de linguagens devidamente alocados em seus paradigmas, mas o usuário conseguirá altera-las localmente. 
 
 Nome do projeto: ParadigmasLP
 
@@ -40,12 +40,12 @@ Tecnologias associadas:
 
       >VAREJÃO, Flávio. Linguagens de Programação. São Paulo: Campus, 2004
       
-      >Michael A. Covington (2010-08-23). "CSCI/ARTI 4540/6540: First Lecture on Symbolic Programming and LISP" (PDF). University of Georgia. Archived from the original (PDF) on 2012-03-07. Retrieved 2013-11-20.
-      
       >Harper, Robert (1 May 2017). "What, if anything, is a programming-paradigm?". FifteenEightyFour. Cambridge University Press.
       
       
 
+      
+      >Michael A. Covington (2010-08-23). "CSCI/ARTI 4540/6540: First Lecture on Symbolic Programming and LISP" (PDF). University of Georgia. Archived from the original (PDF) on 2012-03-07. Retrieved 2013-11-20.
 Metodologia de desenvolvimento: Cascata, onde só será iniciada a próxima fase da construção do sistema WEB após a finalização da anterior, dimensionando as tarefas e evitando acumulos. 
 Essa metodologia foi selecionada, pois como o trabalho será feito individualmente, é uma forma de evitar prosticanação no projeto. 
                 
