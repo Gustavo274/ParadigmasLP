@@ -24,6 +24,6 @@ Tecnologias associadas:
 
       >VAREJÃO, Flávio. Linguagens de Programação. São Paulo: Campus, 2004
 
-Metodologia de desenvolvimento: Cascata, onde só será iniciada a próxima fase da construção do APP após a finalização da anterior, dimensionando as tarefas e evitando acumulos. 
+Metodologia de desenvolvimento: Cascata, onde só será iniciada a próxima fase da construção do sistema WEB após a finalização da anterior, dimensionando as tarefas e evitando acumulos. 
 Essa metodologia foi selecionada, pois como o trabalho será feito individualmente, é uma forma de evitar prosticanação no projeto. 
                 
