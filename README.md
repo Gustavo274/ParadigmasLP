@@ -1,12 +1,12 @@
 # ParadigmasLP
 
-Relatório referente ao trabalho de paradigmas da programação, onde será desenvolvido um sistema APP para a identificação de paradigmas dentro de linguagens de programação.
+Relatório referente ao trabalho de paradigmas da programação, onde será desenvolvido um sistema WEB para a identificação de paradigmas dentro de linguagens de programação.
 
 Nome do projeto: ParadigmasLP
 
 Alunos: Gustavo Santos Costa
 
-Sistema APP
+Sistema WEB
 
 Tecnologias associadas:
 
