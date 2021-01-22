@@ -2,6 +2,8 @@
 
 Relatório referente ao trabalho de paradigmas da programação, onde será desenvolvido um sistema WEB para a identificação de paradigmas dentro de linguagens de programação. Os paradigmas utilizados para a classificação serão:
 
+*SUJEITO A ALTERAÇÕES
+
 -Funcional: Focado na avaliação de funções matemáticas e que evita estados ou dados mutáveis. Adequado para inteligência artificial, sistemas para área de matemática e aplicações lógicas.
 
 -Lógico: Chega no resultado esperado a partir de avaliações lógico-matemáticas. Nesse paradigma programas são relações entre Entrada/Saída. Possui estilo declarativo, como o paradigma funcional. Inclui características imperativas, por questões de eficiência. Aplicações em prototipação em geral, sistemas especialistas, bancos de dados, etc.
