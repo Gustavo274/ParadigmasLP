@@ -39,15 +39,17 @@ Tecnologias associadas:
 
 -Base de dados: 
 
-      >SEBESTA, R.W. Conceitos de Linguagens de Programação. 5ª. Ed. Porto Alegre: Bookman, 2003.
+     > Allen B. Tucker, Robert E. Noonan. Linguagens de Programação - Princípios e Paradigmas. 2ª ed. Editora McGraw Hill. 2009.
+     > Doris Appleby & Julius J. VandeKopple “Programming Languages – paradigm and practice” McGraw-Hill,1997 – 2nd. Edition.
+     > Harper, Robert (1 May 2017). "What, if anything, is a programming-paradigm?". FifteenEightyFour. Cambridge University Press.
+     > Maurizio Gabbrielli & Simone Martini “Programming Languages – principles and paradigms” Springer, London, 2010, DOI 10.1007/978-1-84882-914-5.
+     > Michael A. Covington (2010-08-23). "CSCI/ARTI 4540/6540: First Lecture on Symbolic Programming and LISP" (PDF). University of Georgia. Archived from the original (PDF) on 2012-03-07. Retrieved 2013-11-20.
+     > SEBESTA, R.W. Conceitos de Linguagens de Programação. 5ª. Ed. Porto Alegre: Bookman, 2003.
+     > Terrence W Pratt & Marvin V. Zelkowitz “Programming Languages – design and implementation” Prentice Hall,1999 – 3rd. Edition ISBN 0-13-678012-1.
+     > Van Roy P., The Principal Programming Paradigms, Poster version 1.08. See www.info.ucl.ac.be/~pvr/paradigms.html, 2008.
+     > Van Roy, Peter. Programming paradigms for dummies: what every programmer should know. In: Edited by Gérard Assayag and Andrew Gerzso, New computational paradigms for computer music, Éditions DELATOUR FRANCE  : Le vallier 2009, p. 9-47. See http://www.sm.luth.se/csee/courses/timber/reading/VanRoy.pdf
+     > VAREJÃO, Flávio. Linguagens de Programação. São Paulo: Campus, 2004
 
-      >Allen B. Tucker, Robert E. Noonan. Linguagens de Programação - Princípios e Paradigmas. 2ª ed. Editora McGraw Hill. 2009.
-
-      >VAREJÃO, Flávio. Linguagens de Programação. São Paulo: Campus, 2004
-      
-      >Harper, Robert (1 May 2017). "What, if anything, is a programming-paradigm?". FifteenEightyFour. Cambridge University Press.
-      
-      >Michael A. Covington (2010-08-23). "CSCI/ARTI 4540/6540: First Lecture on Symbolic Programming and LISP" (PDF). University of Georgia. Archived from the original (PDF) on 2012-03-07. Retrieved 2013-11-20.
       
       ...
       
