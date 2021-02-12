@@ -57,7 +57,7 @@ Metodologia de desenvolvimento: Cascata, onde só será iniciada a próxima fase
 Essa metodologia foi selecionada, pois como o trabalho será feito individualmente, é uma forma de evitar prosticanação no projeto. 
 
 
-Atualização 1.0:
+##Atualização 1.0:
 - Prototipação inicial: 
 https://www.figma.com/file/6J1rOFkkPxJFtwub1ZmVpL/ParadigmasLP
                 
