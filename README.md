@@ -55,4 +55,9 @@ Tecnologias associadas:
       
 Metodologia de desenvolvimento: Cascata, onde só será iniciada a próxima fase da construção do sistema WEB após a finalização da anterior, dimensionando as tarefas e evitando acumulos. 
 Essa metodologia foi selecionada, pois como o trabalho será feito individualmente, é uma forma de evitar prosticanação no projeto. 
+
+
+Atualização 1.0:
+- Prototipação inicial: 
+https://www.figma.com/file/6J1rOFkkPxJFtwub1ZmVpL/ParadigmasLP
                 
